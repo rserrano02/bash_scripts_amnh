@@ -1,2 +1,4 @@
-touch file1.txt
-touch file2{a..d}.txt
+for i in 1 3 5;
+do
+    touch newfile$i.txt
+done
