@@ -3,5 +3,7 @@ do
 
     
     echo $i
+    
     touch newfile$i.txt
+    touch Newfiles$i.txt
 done
